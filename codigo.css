@@ -1,0 +1,37 @@
+body {
+    background-image: linear-gradient(to left, red, white);
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+   margin-right: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 12pt;
+   color: blanchedalmond;
+   text-align: justify;
+   
+
+}
+h1 {
+    color:gold;
+    text-align: center;
+    text-shadow: 5px 5px navy;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border: 8px solid blanchedalmond;
+    border-radius: 40%;
+}
+
+img:hover{
+    border-image: 100%;
+    opacity: 65%;
+    height: 400px;
+    width: 400px;
+}
+
+.um{
+    color:white;
+    text-decoration: none;
+}
